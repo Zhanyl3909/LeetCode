@@ -4,5 +4,13 @@
 ## LeetCode Problem Solving
 
 
-|1|[Two Sum](https://leetcode.com/problems/two-sum/)| [C++](./algorithms/cpp/twoSum/twoSum.cpp)|Easy|
+
+| # | Title | Solution | Difficulty |
+| :-----: | :---: | :---: | :---: |
+| 1 | Two Sum |  [Java](/1.TwoSum/1.TwoSum.java) | Easy |
+
+
+
+
+
 
