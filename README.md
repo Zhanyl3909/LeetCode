@@ -12,3 +12,4 @@
 | 3 | Valid Anagram | [Java](/242.ValidAnagram/242.Valid_Anagram.java) | Easy|
 | 4 | Longest Common Prefix | [Java](/14.LongestCommonPrefix/Main.java) | Easy|
 | 5 | Remove Duplicates from Sorted Array | [Java](/26.Remove_Duplicates_from_Sorted_Array/Main.java) | Easy|
+| 6 | Majority Element | [Java](/169.Majority_Element/Main.java) | Easy|
