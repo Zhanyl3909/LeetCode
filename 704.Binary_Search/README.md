@@ -28,3 +28,13 @@ Explanation: 2 does not exist in nums so return -1
 - `104 < nums[i], target < 104`
 - All the integers in `nums` are **unique**.
 - `nums` is sorted in ascending order.
+
+
+### **Complexity Analysis**
+
+Let nn*n* be the size of the input array `nums`.
+
+- Time complexity: O(log⁡n)O(\log n)*O*(log*n*)
+    - `nums` is divided into half each time. In the worst-case scenario, we need to cut `nums` until the range has no element, and it takes logarithmic time to reach this break condition.
+- Space complexity: O(1)O(1)*O*(1)
+    - During the loop, we only need to record three indexes, `left`, `right`, and `mid`, they take constant space.
