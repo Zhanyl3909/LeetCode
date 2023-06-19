@@ -15,4 +15,7 @@
 | 6 | Majority Element | [Java](/169.Majority_Element/Main.java) | Easy|
 | 7 | Binary Search | [Java](/704.Binary_Search/Main.java) | Easy|
 | 8 | Sqrt(x) | [Java](/69.Sqrt/Main.java) | Easy|
+| 9 | Guess Number Higher or Lower | [Java](/374.Guess_Number_Higher_or_Lower/Main.java
+) | Easy|
+
 
