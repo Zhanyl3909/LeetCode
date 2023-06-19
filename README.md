@@ -16,5 +16,7 @@
 | 7 | Binary Search | [Java](/704.Binary_Search/Main.java) | Easy|
 | 8 | Sqrt(x) | [Java](/69.Sqrt/Main.java) | Easy|
 | 9 | Guess Number Higher or Lower | [Java](/374.Guess_Number_Higher_or_Lower/Main.java) | Easy|
+| 10 | Search in Rotated Sorted Array | [Java](/33.Search_in_Rotated_Sorted_Array/Main.java) | Medium |
+
 
 
