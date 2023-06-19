@@ -18,4 +18,6 @@
 | 9 | Guess Number Higher or Lower | [Java](/374.Guess_Number_Higher_or_Lower/Main.java) | Easy|
 | 10 | Search in Rotated Sorted Array | [Java](/33.Search_in_Rotated_Sorted_Array/Main.java) | Medium |
 | 11 | Find Minimum in Rotated Sorted Array | [Java](/153.Find_Minimum_in_Rotated_Sorted_Array/Main.java) | Medium |
+| 12 |  Valid Perfect Square | [Java](/367.Valid_Perfect_Square/Main.java) | Easy |
+
 
