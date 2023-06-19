@@ -14,4 +14,5 @@
 | 5 | Remove Duplicates from Sorted Array | [Java](/26.Remove_Duplicates_from_Sorted_Array/Main.java) | Easy|
 | 6 | Majority Element | [Java](/169.Majority_Element/Main.java) | Easy|
 | 7 | Binary Search | [Java](/704.Binary_Search/Main.java) | Easy|
+| 8 | Sqrt(x) | [Java](/69.Sqrt/Main.java) | Easy|
 
