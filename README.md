@@ -19,5 +19,6 @@
 | 10 | Search in Rotated Sorted Array | [Java](/33.Search_in_Rotated_Sorted_Array/Main.java) | Medium |
 | 11 | Find Minimum in Rotated Sorted Array | [Java](/153.Find_Minimum_in_Rotated_Sorted_Array/Main.java) | Medium |
 | 12 |  Valid Perfect Square | [Java](/367.Valid_Perfect_Square/Main.java) | Easy |
+| 13 |  Length of Last Word | [Java](/58.Length_of_Last_Word/Main.java) | Easy |
 
 
