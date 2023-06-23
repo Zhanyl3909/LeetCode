@@ -23,3 +23,4 @@
 | 14 |  Ugly Number | [Java](/263.Ugly_Number/Main.java) | Easy |
 
 
+
