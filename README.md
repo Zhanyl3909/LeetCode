@@ -21,6 +21,7 @@
 | 12 |  Valid Perfect Square | [Java](/367.Valid_Perfect_Square/Main.java) | Easy |
 | 13 |  Length of Last Word | [Java](/58.Length_of_Last_Word/Main.java) | Easy |
 | 14 |  Ugly Number | [Java](/263.Ugly_Number/Main.java) | Easy |
+| 15 |  Contains Duplicate II | [Java](/219.Contains_Duplicate_II/Main.java) | Easy |
 
 
 
