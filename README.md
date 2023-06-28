@@ -22,6 +22,6 @@
 | 13 |  Length of Last Word | [Java](/58.Length_of_Last_Word/Main.java) | Easy |
 | 14 |  Ugly Number | [Java](/263.Ugly_Number/Main.java) | Easy |
 | 15 |  Contains Duplicate II | [Java](/219.Contains_Duplicate_II/Main.java) | Easy |
-
-
+| 16 |  Find Smallest Letter Greater Than Target | [Java](/744.Find_Smallest_Letter_Greater_Than_Target/Main.java
+) | Easy |
 
