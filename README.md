@@ -1,7 +1,7 @@
 
 # LeetCode
 
-## LeetCode Problem Solving
+## LeetCode Problem Solving to solidify understanding of key concepts of DSA
 
 
 | # | Title | Solution | Difficulty |
