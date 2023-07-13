@@ -25,5 +25,7 @@
 | 16 |  Find Smallest Letter Greater Than Target | [Java](/744.Find_Smallest_Letter_Greater_Than_Target/Main.java) | Easy |
 | 17 | Plus One | [Java](/66.Plus_One/Main.java) | Easy|
 | 18 | Reverse String | [Java](/344.Reverse_String/Main.java) | Easy|
+| 19 | Swap Nodes in Pairs | [Java](/24.Swap_Nodes_in_Pairs/Main.java) | Medium|
+
 
 
