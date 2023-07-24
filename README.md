@@ -25,7 +25,10 @@
 | 17 | Plus One | [Java](/66.Plus_One/Main.java) | Easy|
 | 18 | Reverse String | [Java](/344.Reverse_String/Main.java) | Easy|
 | 19 | Swap Nodes in Pairs | [Java](/24.Swap_Nodes_in_Pairs/Main.java) | Medium|
-| 20| Add Two Integers| [Java](/2235.Add_Two_Integers/Main.java)|Easy | 2023-07-24|
+| 20 | Add Two Integers| [Java](/2235.Add_Two_Integers/Main.java)|Easy | 2023-07-24|
+| 21 | Root Equals Sum of Children| [Java](/2236.Root_Equals_Sum_of_Children/Main.java) | Easy | 2023-07-24|
+
+
 
 
 
