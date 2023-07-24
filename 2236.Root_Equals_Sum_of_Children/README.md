@@ -5,8 +5,8 @@ You are given the `root` of a **binary tree** that consists of exactly `3`�
 Return `true` *if the value of the root is equal to the **sum** of the values of its two children, or* `false` *otherwise*.
 
 **Example 1:**
-!https://assets.leetcode.com/uploads/2022/04/08/graph3drawio.png
 
+![alt text](https://assets.leetcode.com/uploads/2022/04/08/graph3drawio.png)
 ```
 Input: root = [10,4,6]
 Output: true
