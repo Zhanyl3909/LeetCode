@@ -4,9 +4,8 @@
 ## LeetCode Problem Solving 
 ### To solidify understanding of key concepts of DSA
 
-
-| # | Title | Solution | Difficulty |
-| :-----: | :---: | :---: | :---: |
+| # | Title | Solution | Difficulty | Date |
+| :-----: | :---: | :---: | :---: | :---:|
 | 1 | Two Sum |  [Java](/1.TwoSum/1.TwoSum.java) | Easy |
 | 2 | Contains Duplicates | [Java](/217.Contains_Duplicate/217.%20Contains%20Duplicate.java) | Easy|
 | 3 | Valid Anagram | [Java](/242.ValidAnagram/242.Valid_Anagram.java) | Easy|
@@ -25,5 +24,8 @@
 | 16 |  Find Smallest Letter Greater Than Target | [Java](/744.Find_Smallest_Letter_Greater_Than_Target/Main.java) | Easy |
 | 17 | Plus One | [Java](/66.Plus_One/Main.java) | Easy|
 | 18 | Reverse String | [Java](/344.Reverse_String/Main.java) | Easy|
+| 19 | Swap Nodes in Pairs | [Java](/24.Swap_Nodes_in_Pairs/Main.java) | Medium|
+| 20| | | | 2023-07-21|
+
 
 
