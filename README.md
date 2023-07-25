@@ -28,6 +28,9 @@
 | 20 | Add Two Integers| [Java](/2235.Add_Two_Integers/Main.java)|Easy | 2023-07-24|
 | 21 | Root Equals Sum of Children| [Java](/2236.Root_Equals_Sum_of_Children/Main.java) | Easy | 2023-07-24|
 | 22 | Richest Customer Wealth| [Java](/1672.Richest_Customer_Wealth/Main.java) | Easy | 2023-07-25|
+| 23 | Number of Steps to Reduce a Number to Zero| [Java](/1342.Number_of_Steps_to_Reduce_a_Number_to_Zero/Main02.java) | Easy | 2023-07-25|
+
+
 
 
 
