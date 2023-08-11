@@ -13,6 +13,7 @@ Explanation: The smallest character that is lexicographically greater than 'a' i
 
 ```
 
+
 **Example 2:**
 
 ```
