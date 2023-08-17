@@ -30,8 +30,9 @@
 | 22 | Richest Customer Wealth| [Java](/1672.Richest_Customer_Wealth/Main.java) | Easy | 2023-07-25|
 | 23 | Number of Steps to Reduce a Number to Zero| [Java](/1342.Number_of_Steps_to_Reduce_a_Number_to_Zero/Main02.java) | Easy | 2023-07-25|
 | 24 | Middle of the Linked List| [Java](/876.Middle_of_the_Linked_List/Main.java) | Easy | 2023-07-26|
-|25|Remove Element|[Java]()| Easy |2023-08-01|
-|25| Fizz Buzz|[Java](/412.Fizz_Buzz/Main.java)| Easy |2023-08-16|
+| 25 |Remove Element|[Java]()| Easy |2023-08-01|
+| 26 | Fizz Buzz|[Java](/412.Fizz_Buzz/Main.java)| Easy |2023-08-16|
+| 27 | Fibonacci Number|[Java](//509.Fibonacci_Number/Main.java)| Easy |2023-08-17|
 
 
 
