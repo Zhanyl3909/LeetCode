@@ -4,7 +4,6 @@
 ## LeetCode Problem Solving 
 ### To solidify understanding of key concepts of DSA
 
-
 | # | Title | Solution | Difficulty | Date |
 | :-----: | :---: | :---: | :---: | :---:|
 | 1 | Two Sum |  [Java](/1.TwoSum/1.TwoSum.java) | Easy |
